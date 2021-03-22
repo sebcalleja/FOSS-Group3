@@ -9,6 +9,7 @@
 - Nick Kapp
 - Sebastian Calleja 
 
+---
 <img src="cactus_sunset.jpg" class="inline"/>
 
 ### Important Links
