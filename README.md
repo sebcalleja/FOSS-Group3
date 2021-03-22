@@ -2,16 +2,14 @@
 
 <img src="cyverse_logo.png" class="inline"/>
 
-You can use the [editor on GitHub](https://github.com/sebcalleja/FOSS-Group3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Team Members
 - Ayanna St Ross
 - Cristian Salazar de Leon
 - Hardani Maulana
 - Nick Kapp
-- Sebastian Calleja
+- Sebastian Calleja 
+
+<img src="cactus_sunset.jpg" class="inline"/>
 
 ### Important Links
 Hack MD notes: 
