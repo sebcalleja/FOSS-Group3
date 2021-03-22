@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/sebcalleja/FOSS-Group3/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Team Members
+- Ayanna St Ross
+- Cristian Salazar de Leon
+- Hardani Maulana
+- Nick Kapp
+- Sebastian Calleja
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
