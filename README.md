@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FOSS Tuesday Group 3 
 
 You can use the [editor on GitHub](https://github.com/sebcalleja/FOSS-Group3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
