@@ -11,34 +11,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Nick Kapp
 - Sebastian Calleja
 
-### Markdown
+### Important Links
+Hack MD notes: https://github.com/CyVerse-learning-materials/foss-spring-2021-hackmd-notes?mc_cid=bd3e73e33f&mc_eid=1aeeb1392b
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+FOSS Website: https://learning.cyverse.org/projects/foss-2020/en/latest/
 
-```markdown
-Syntax highlighted code block
+Git cheat sheet: https://learning.cyverse.org/projects/foss/en/latest/reproducible_science/GitHub.html?mc_cid=bd3e73e33f&mc_eid=1aeeb1392b#git-cheat-sheet
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebcalleja/FOSS-Group3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Playlist of Class Recordings: https://www.youtube.com/playlist?list=PL38WPXpo-ZW2U9_ADIr_oEGmTHlBKQxkV
