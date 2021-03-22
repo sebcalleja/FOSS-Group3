@@ -12,6 +12,7 @@
 ***
 <img src="cactus_sunset.jpg" class="inline"/>
 
+***
 ### Important Links
 Hack MD notes: 
 - https://github.com/CyVerse-learning-materials/foss-spring-2021-hackmd-notes?mc_cid=bd3e73e33f&mc_eid=1aeeb1392b
