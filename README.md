@@ -1,6 +1,6 @@
 ## FOSS Tuesday Group 3 
 
-<img src="/blob/main/cyverse_logo.png" class="inline"/>
+<img src="cyverse_logo.png" class="inline"/>
 
 You can use the [editor on GitHub](https://github.com/sebcalleja/FOSS-Group3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
