@@ -33,7 +33,7 @@ View CV Below:
 #### Sebastian Calleja
 I am a first year plant science PhD student at the University of Arizona. My current research for the Pauli Lab involves understanding a plant's dynamic response to abiotic stress throughout a growing season. My research is conducted at the Maricopa Agricultural Center, home of the world's largest land phenotyping robot. This robot is equipped with multiple sesnsors which we can leverage to better understand plant physiological traits. I am currently working on extracting information from the robot's FLIR thermal sensor, so we can gain more knowledge about the crop's water dynamics in periods of drought stress.
 
-CV: <embed src="https://github.com/sebcalleja/FOSS-Group3/blob/main/SCalleja%20Resume%202020.pdf" type="application/pdf" />
+CV: <embed src="https://github.com/sebcalleja/FOSS-Group3/blob/main/SCalleja%CV%2020.pdf" type="application/pdf" />
 
 #### Cristian Salazar de Leon
 I am a first year plant sciences graduate student at the University of Arizona in the Pauli Lab. My current research involves created machine learning AI for the detection of a fungal disease called charcoal rot in sorghum images. In the future, this image data and AI can be used as a case study for educators. I also wish to apply AI for phenotyping characteristics in other crops such as tepary beans and for the diagnosis of other crop diseases.
