@@ -24,7 +24,7 @@ Git cheat sheet:
 - (https://learning.cyverse.org/projects/foss/en/latest/reproducible_science/GitHub.html?mc_cid=bd3e73e33f&mc_eid=1aeeb1392b#git-cheat-sheet)
 
 Playlist of Class Recordings: 
-(https://www.youtube.com/playlist?list=PL38WPXpo-ZW2U9_ADIr_oEGmTHlBKQxkV)
+[https://www.youtube.com/playlist?list=PL38WPXpo-ZW2U9_ADIr_oEGmTHlBKQxkV]
 
 ### Team Biographies
 
