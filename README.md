@@ -36,3 +36,5 @@ View CV Below:
 
 #### Sebastian Calleja
 I am a first year plant science PhD student at the University of Arizona. My current research for the Pauli Lab involves understanding a plant's dynamic response to abiotic stress throughout a growing season. My research is conducted at the Maricopa Agricultural Center, home of the world's largest land phenotyping robot. This robot is equipped with multiple sesnsors which we can leverage to better understand plant physiological traits. I am currently working on extracting information from the robot's FLIR thermal sensor, so we can gain more knowledge about the crop's water dynamics in periods of drought stress.
+
+#### Cristian Salazar de Leon
