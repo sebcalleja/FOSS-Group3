@@ -24,7 +24,7 @@ Git cheat sheet:
 - (https://learning.cyverse.org/projects/foss/en/latest/reproducible_science/GitHub.html?mc_cid=bd3e73e33f&mc_eid=1aeeb1392b#git-cheat-sheet)
 
 Playlist of Class Recordings: 
-[https://www.youtube.com/playlist?list=PL38WPXpo-ZW2U9_ADIr_oEGmTHlBKQxkV]
+- https://www.youtube.com/playlist?list=PL38WPXpo-ZW2U9_ADIr_oEGmTHlBKQxkV
 
 ### Team Biographies
 
@@ -34,4 +34,4 @@ In spring of 2019, I began my PhD with Dr. Kusum Naithani, while pursuing a Mast
 ### Team Curriculum Vitaes
 
 #### Ayanna St. Rose
-<embed src="https://github.com/astrose/FOSS-Group3/blob/main/StRose-CV.pdf" type="application/pdf" />
+<embed src="https://github.com/astrose/FOSS-Group3/blob/3c0a0fc70567e273824c3987f91d60fc9ad5c081/StRose-CV.pdf" type="application/pdf" />
