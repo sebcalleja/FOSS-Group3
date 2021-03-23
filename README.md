@@ -31,4 +31,4 @@ Playlist of Class Recordings:
 #### Ayanna St. Rose
 In spring of 2019, I began my PhD with Dr. Kusum Naithani, while pursuing a Masters of Science in Biological Statistical Analysis. I am interested in investigating climate-carbon feedback at ground, leaf and landscape scale. I am currently working on an NSF funded project to explore natural genetic variation of photosynthetic machinery in crops to tolerate drought and elevated nighttime temperature. I plan to investigate climate-carbon feedback at landscape scale using landscape and regional models. I intend to utilize data from the National Ecological Observatory Network data, an open access data portal with sites all over the US, and other similar open-data products (e.g., Ameriflux) to study how canopy structure affects biodiversity.
 
-<embed src="https://github.com/sebcalleja/FOSS-Group3/blob/1e13ccabba1418f6895d0ee23a9e923e36e31a81/StRose-CV.pdf" type="application/pdf" />
+<embed src="StRose-CV.pdf" type="application/pdf" />
