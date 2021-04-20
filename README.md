@@ -40,3 +40,7 @@ I am a first year plant sciences graduate student at the University of Arizona i
 
 #### Hardani Maulana
 I finished my master study in Informatics at the Technical University of Munich, Germany and currently working as a Full Stack Software Developer at Graz University of Technology under Research Data Management group. I am interested in machine learning, data science, and computer vision. My current project is a part of FAIR Data Austria project, in particular develop a machine actionable Data Management Plan for researcher. This project and other project in my group lead me interested to know more about the open science and its tools.
+
+### Data Management Plan for Ayanna's Thesis:
+
+[DMP](https://docs.google.com/document/d/1-_Tpy8ZK841xk01GVS6GxIfbt_iDv1sEYVTsJPTBKe4/edit?usp=sharing)
